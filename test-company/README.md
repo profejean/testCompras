@@ -6,7 +6,7 @@ Proyecto creado en Laravel 8
 
 Navegar cd test-company
 
-1)Composer update
+1)composer install
 
 2)cp .env.example .env
 
