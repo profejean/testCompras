@@ -43,9 +43,10 @@ password
 
     a)composer require laravel/sail --dev
     b)php artisan sail:install
-    c)./vendor/bin/sail up
-    d)./vendor/bin/sail artisan sail:publish
-    e)./vendor/bin/sail artisan migrate:fresh --seed
+    c)Elije la base de datos de tu gusto (Tardara en descargar las imagenes si no las tienes instaladas en docker)
+    d)./vendor/bin/sail up
+    e)./vendor/bin/sail artisan sail:publish
+    f)./vendor/bin/sail artisan migrate:fresh --seed
 
 Nota: Deje las rutas del otro proyecto realizado para el php por si les interesa ver ese trabajo, en el archivo routes encontraran las rutas
 
