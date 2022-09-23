@@ -4,6 +4,8 @@ La presente es para explicar el proceso de la app
 
 Proyecto creado en Laravel 8
 
+Navegar cd test-company
+
 1)Composer update
 
 2)cp .env.example .env
